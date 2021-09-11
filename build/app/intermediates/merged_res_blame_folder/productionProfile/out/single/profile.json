@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-xxhdpi_ic_launch_image.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-xxhdpi/ic_launch_image.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-mdpi_ic_launch_image.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-mdpi/ic_launch_image.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-xxxhdpi_ic_launch_image.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-xxxhdpi/ic_launch_image.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-xhdpi_ic_launch_image.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-xhdpi/ic_launch_image.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-hdpi_ic_launch_image.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-hdpi/ic_launch_image.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-anydpi-v24_ic_launch_image.xml.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-anydpi-v24/ic_launch_image.xml"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-ldpi_ic_launch_image.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-ldpi/ic_launch_image.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable_launch_background.xml.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/res/merged/production/profile/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/generated/res/pngs/production/profile/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]

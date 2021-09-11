@@ -1,0 +1,4 @@
+#Fri Sep 10 08:20:11 WAT 2021
+base.0=/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/dex/productionProfile/mergeDexProductionProfile/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

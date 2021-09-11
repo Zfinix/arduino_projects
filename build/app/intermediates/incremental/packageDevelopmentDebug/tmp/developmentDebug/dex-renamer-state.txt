@@ -1,0 +1,4 @@
+#Fri Sep 10 06:49:10 WAT 2021
+base.0=/Users/chiziaruhoma/projects/arduino/arduino_projects/build/app/intermediates/dex/developmentDebug/mergeDexDevelopmentDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
