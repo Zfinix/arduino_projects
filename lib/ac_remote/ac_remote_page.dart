@@ -30,7 +30,7 @@ class _ACRemotePageState extends State<ACRemotePage> {
           CupertinoButton(
             color: Colors.red,
             onPressed: _togglePower,
-            child: Text('AC On/Off',
+            child: const Text('AC On/Off',
                 style: TextStyle(
                     color: Colors.white,
                     fontStyle: FontStyle.italic,
@@ -39,7 +39,7 @@ class _ACRemotePageState extends State<ACRemotePage> {
           CupertinoButton(
             color: Colors.red,
             onPressed: _fan,
-            child: Text('Fan',
+            child: const Text('Fan',
                 style: TextStyle(
                     color: Colors.white,
                     fontStyle: FontStyle.italic,
@@ -48,7 +48,7 @@ class _ACRemotePageState extends State<ACRemotePage> {
           CupertinoButton(
             color: Colors.red,
             onPressed: _mode,
-            child: Text('Mode',
+            child: const Text('Mode',
                 style: TextStyle(
                     color: Colors.white,
                     fontStyle: FontStyle.italic,
@@ -57,7 +57,7 @@ class _ACRemotePageState extends State<ACRemotePage> {
           CupertinoButton(
             color: Colors.red,
             onPressed: _tempUp,
-            child: Text('Temp Up',
+            child: const Text('Temp Up',
                 style: TextStyle(
                     color: Colors.white,
                     fontStyle: FontStyle.italic,
@@ -66,7 +66,7 @@ class _ACRemotePageState extends State<ACRemotePage> {
           CupertinoButton(
             color: Colors.red,
             onPressed: _tempDown,
-            child: Text('Temp Down',
+            child: const Text('Temp Down',
                 style: TextStyle(
                     color: Colors.white,
                     fontStyle: FontStyle.italic,

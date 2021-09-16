@@ -24,14 +24,13 @@
                 "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266",
                 "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/variants/d1",
                 "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src",
-                "/Users/chiziaruhoma/Documents/Arduino/libraries/",
+                "/Users/chiziaruhoma/Documents/Arduino/libraries/IRremoteESP8266/src",
                 "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.0.4-gcc10.3-1757bed/xtensa-lx106-elf/include/c++/10.3.0",
                 "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.0.4-gcc10.3-1757bed/xtensa-lx106-elf/include/c++/10.3.0/xtensa-lx106-elf",
                 "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.0.4-gcc10.3-1757bed/xtensa-lx106-elf/include/c++/10.3.0/backward",
                 "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.0.4-gcc10.3-1757bed/lib/gcc/xtensa-lx106-elf/10.3.0/include",
                 "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.0.4-gcc10.3-1757bed/lib/gcc/xtensa-lx106-elf/10.3.0/include-fixed",
-                "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.0.4-gcc10.3-1757bed/xtensa-lx106-elf/include",
-                "/Users/chiziaruhoma/Documents/Arduino/libraries/LiquidCrystal/src"
+                "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.0.4-gcc10.3-1757bed/xtensa-lx106-elf/include"
             ],
             "forcedInclude": [
                 "/Users/chiziaruhoma/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Arduino.h"
